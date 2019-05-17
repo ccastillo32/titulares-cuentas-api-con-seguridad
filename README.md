@@ -56,9 +56,3 @@ Desde un inicio se tuvo en cuenta aprovechar el uso de la herencia de JPA, para 
 Para ello se creó la clase padre Titular.
 Apoyada también por la anotación @Inheritance(strategy = InheritanceType.JOINED)
 
-### Observación final
-
-Se nombró el proyecto como titulares-cuentas-api-new, ya que se refactorizó en este nuevo proyecto.
-La idea era eliminarle el 'new' antes de entregarlo.
-
-
