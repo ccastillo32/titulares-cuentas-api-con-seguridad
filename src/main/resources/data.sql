@@ -1,7 +1,7 @@
 -- Usuarios
 
 INSERT INTO usuario (username, password, nombre, apellido, habilitado) 
-VALUES ('tecso', '$2a$10$5NDv1BxoYg6YSQWV7bxS3.ArWxa9lOFxfrQerx.2.QHkQoqSdLoIG', 'tecso', '', TRUE); -- 2019
+VALUES ('cristian', '$2a$10$5NDv1BxoYg6YSQWV7bxS3.ArWxa9lOFxfrQerx.2.QHkQoqSdLoIG', 'Cristian', 'Castillo', TRUE); -- 2019
 
 
 -- Rol
